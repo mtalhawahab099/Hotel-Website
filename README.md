@@ -11,7 +11,6 @@ Screenshots
 -----
 
 ![Desktop Screenshot 1](https://github.com/abdultolba/hotel_bt_website/blob/master/github_images/SS_1.png "Desktop Screenshot 1")
-![Desktop Screenshot 2](https://github.com/abdultolba/hotel_bt_website/blob/master/github_images/SS_2.png "Desktop Screenshot 2")
 
 Mobile Screenshot 1        |  Mobile Screenshot 2      | Mobile Screenshot 3
 :-------------------------:|:-------------------------:|:-------------------------:
